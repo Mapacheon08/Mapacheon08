@@ -49,12 +49,6 @@
     alt="sql" width="40" height="40"/>
   </a>
 
-  <!-- Assembly -->
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" 
-    alt="assembly" width="40" height="40"/>
-  </a>
-
 </p>
 
 
