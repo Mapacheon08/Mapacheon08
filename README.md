@@ -11,13 +11,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Institute Certus](https://www.certus.edu.pe/)
+- 📚 Estoy estudiando en la Universidad Nacional de Colombia
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 Me encuentro en la carrera de ingeniería de sistemas y computación
 
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
+- 🖌️ Me encanta la animación y me gustaría aprender
 
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 
+
+- 📫 Mi correo es: **davidmramos30@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
